@@ -106,9 +106,9 @@ Let's start with some items from an early version of the exam I gave when I taug
 **Item 38**   When there are no ties among ranks, what is the relationship between the Spearman rho ($\rho$) and the Pearson ($r$)?
 
 * a)	$\rho$ = $r$
-* ii)	$\rho$ > $r$
-* a)	$\rho$ < $r$
-* b)	no relationship
+* b)	$\rho$ > $r$
+* c)	$\rho$ < $r$
+* d)	no relationship
 
 ## Item Difficulty 
 
