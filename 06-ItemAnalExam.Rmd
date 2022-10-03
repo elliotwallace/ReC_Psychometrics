@@ -551,9 +551,9 @@ For Item #37, a negative relation between endorsing 1/A and ability (a good dist
 **Item 38** When there are no ties among ranks, what is the relationship between the Spearman rho ($\rho$) and the Pearson r ($r$)?
 
 * a)	$\rho$ = $r$
-* ii)	$\rho$ > $r$
-* a)	$\rho$ < $r$
-* b)	no relationship
+* b)	$\rho$ > $r$
+* c)	$\rho$ < $r$
+* d)	no relationship
 
 Mean = .27, *r* = -.07, Distractors:  0.27	0.00	0.00	0.73, skew = .68     
 *Notice anything else that's funky about Item #38?*
