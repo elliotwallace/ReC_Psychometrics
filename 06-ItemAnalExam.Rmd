@@ -299,9 +299,9 @@ Considering what we have learned already, Item #37 is:
 **Item 38** When there are no ties among ranks, what is the relationship between the Spearman rho ($\rho$) and the Pearson r ($r$)?
 
 * a)	$\rho$ = $r$
-* ii)	$\rho$ > $r$
-* a)	$\rho$ < $r$
-* b)	no relationship
+* b)	$\rho$ > $r$
+* c)	$\rho$ < $r$
+* d)	no relationship
 
 Hand calculation:  Upper = 1 (33%), Lower = 1 (33%).  Difference = 0%.  
 
