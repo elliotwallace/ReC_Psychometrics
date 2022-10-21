@@ -202,7 +202,7 @@ Because the intended audience for the ReCentering Psych Stats OER is the scienti
 * Specify a series of models, these typicallyinclude
   - A unidimensional model (all items on a single factor)
   - A single order structure with correlated factors
-  - A second orer structure
+  - A second order structure
   - A bifactor structure
 * Evaluate model fit with a variety of indicators
   - factor loadings
